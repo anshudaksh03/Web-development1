@@ -1,0 +1,74 @@
+/* section{
+    margin: 100px;
+} */
+/* div{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 10px auto;
+   
+} */
+
+/* div:nth-of-type(2n){
+    background-color: blueviolet;
+}
+div:nth-of-type(3n){
+    background-color: rgb(110, 226, 43);
+}
+#one{
+    transform: rotate(45deg);
+} */
+
+/* Scale properties */
+
+/* #two{
+    /* transform: scale(0.5); */
+    /* transform: scale( 2 , 0.5); */
+/* } */
+
+/* Translate properties */
+
+/* #three{
+    transform: translateX(100px);
+} */
+
+/* ==== transform skew ========= */
+
+/* #four{
+    transform: skew(30deg);
+}
+#five{
+    transform: rotate(30deg) translateX(150px);
+} */
+
+
+/* ============= Box shadow ======= */
+
+
+/* div{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: aqua;
+    margin: 10px auto;
+    box-shadow: 2px 2px 8px yellow;
+   
+} */
+
+
+/* =========== Backgrpound image  and background size ========= */
+
+div{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    margin: 10px auto;
+    background-image: url(img.jpeg);
+    /* background-size: contain; */
+    /* background-size: cover ; */
+    background-size: auto;
+    color: wheat;
+
+}

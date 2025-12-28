@@ -1,0 +1,60 @@
+/* h1{
+    text-align: center;
+    /* text-align: right; */
+
+
+/* p{
+    text-align: end;
+} */
+/* h2{
+    text-align: start;
+}
+h3{
+    text-align: end;
+}
+p{
+    text-align: justify;
+} */
+
+                            /* Font weight and decoration */
+
+/* h2{
+    /* font-weight: normal; */
+    /* font-weight: 100; */
+/* }
+p{
+    font-weight: bold;
+} */ 
+
+                                      /* Text decoration */
+
+/* h1{
+    text-decoration: underline;
+}       
+h3{
+    text-decoration: dotted  line-through;
+}                             
+h2{
+    text-decoration: blue overline;
+}
+a{
+    text-decoration: none;
+} */
+
+                          /* Line hieght */
+/* p{
+    /* line-height: normal; */
+    /* line-height: 1.5; */
+/* }     
+h1{
+        letter-spacing: 5px;
+
+}                      */ 
+                                /* Font family */
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}    
+p{
+    font-family: Impact;
+}                            
+

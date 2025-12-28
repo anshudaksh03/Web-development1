@@ -1,0 +1,122 @@
+/* inline and block elements */
+/* h2 {
+    display:  inline;
+    background-color: red;
+}
+span {
+    display: block;
+    background-color:palevioletred;
+} */
+
+/* span{
+    background-color: goldenrod;
+    border: 2px solid black;
+    padding: 50px;
+    margin: 20px;
+    height: 100px;
+    width: 200px;
+}
+div{
+    background-color: goldenrod;
+    border: 2px solid black;
+    padding: 50px;
+    margin: 20px;
+    height: 100px;
+    width: 200px;
+} */
+
+/* ============================================== */
+/* 
+div{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    margin: 5px;
+    display: inline-block;
+} */
+
+/* =============Relative units================== */
+/* 
+h1{
+    border: 2px solid black;
+    width: 50%;
+}
+
+#outer{
+    height: 400px;
+    width: 400px;
+    background-color: palevioletred;
+    margin: 50px;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin-left: 10%;
+} */
+
+
+/* #outer{
+height: 400px;
+width: 400px;
+border: 2px solid black;
+font-size: 20px;
+background-color: pink;
+
+}
+
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: gold;
+    font-size: 2em; /* jo hamara outer diva ka font size ka uss ka double agar udhar 20    hai to  idhar 2 em kiya to uss ka double ho gaya like 40 px */
+    /* padding: 2em;
+} */
+
+/* ====================== */
+
+/* button{
+    font-size: 100px;
+    border-radius: 15px;
+    border: 5px solid green;
+    padding-left: 1em;
+    padding-right: 1em;
+
+
+} */
+
+/* ===================== */
+/* section{
+    font-size: 26px;
+}
+
+div{
+    font-size: 2em;
+} */
+
+/* ============Rem========= */
+/* section{
+    font-size: 15px;
+} */
+
+/* div{
+    /* font-size: 2rem; iss mai jo hamara section bala part hai uss ka double set sara ik properties ka accordu=ing honga sara div ka sixe sa agar section bala haoi 15 hai to all sairi div ka size 30px ho jaye ga 
+} */
+
+/* =============Alpha rgb opacity======== */
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+/* ============opacity========== */
+
+#opacity{
+    background-color: rgba(242, 0, 255, 0.5);
+    opacity: 0.5;
+}
+
+

@@ -1,0 +1,89 @@
+#container{
+    /* height: 500px;
+    width: 80%;
+    background-color: white;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex; */
+    /* flex-direction: column; */
+    /* flex-direction:row-reverse; */
+    /* flex-direction:column-reverse; */
+
+                                /* Justify content center */
+
+    /* flex-direction: column-reverse;
+    justify-content: flex-start;
+
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+       /*  flex wrap */
+    /* flex-wrap:wrap;*/
+    /* flex-wrap: wrap-reverse;   */ 
+
+            /* Aline item */
+
+    /* height: 300px;
+    width: 80%;
+    background-color: white;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;        
+    /* align-items: flex-end;     */
+    /* align-items: center;     */
+    /* align-items: baseline;     */ 
+    
+    /* aline content  */
+
+    height: 600px;
+    width: 80%;
+    background-color: white;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    justify-content: flex-start;
+    /* align-content: flex-start; */
+    /* align-content: flex-end; */
+    /* align-content: center; */
+    /* align-content: space-between; */
+    /* align-content: space-around; */
+    /* align-content: space-evenly; */
+    align-content: flex-start;
+    flex-wrap: wrap;
+    
+}
+
+                         /* Aline self */
+/* #org{
+    align-self: flex-end;
+} */
+
+/* Flex sizing basis */
+
+#org{
+    align-self: flex-start;
+    /* flex-grow: 1; */
+    flex-shrink: 1;
+}
+
+#blue{
+/* flex-basis:400px; */
+/* flex-grow: 3;
+min-width: 400px; */
+flex-shrink: 3;
+}
+
+h1{
+    text-align: center;
+}
+#container div{
+    height: 100px;
+    width: 25px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
